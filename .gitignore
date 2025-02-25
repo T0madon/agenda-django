@@ -130,6 +130,7 @@ Control.system-ca-bundle
 GitHub.sublime-settings 
 static/
 media/
+project/local_settings.py
 
 # Visual Studio Code # 
 .vscode/* 
